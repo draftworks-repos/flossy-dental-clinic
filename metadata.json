@@ -1,0 +1,6 @@
+{
+  "name": "Flossy Dental Clinic",
+  "description": "Modern, friendly dental clinic providing expert smile care, advanced treatments, and painless patient-centered dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

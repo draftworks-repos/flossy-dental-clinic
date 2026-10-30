@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --color-primary-blue: #347BFF;
+  --color-primary-hover: #2468E8;
+  --color-page-bg: #EEF5FF;
+  --color-card-bg: #EAF3FF;
+  --color-text-main: #101828;
+  --color-text-muted: #667085;
+  --color-footer-navy: #061A3A;
+  --color-border-subtle: #E5ECF5;
+}
+
+:root {
+  --primary-blue: #347BFF;
+  --primary-blue-hover: #2468E8;
+  --page-bg: #EEF5FF;
+  --card-bg: #EAF3FF;
+  --text-main: #101828;
+  --text-muted: #667085;
+  --footer-navy: #061A3A;
+  --border-subtle: #E5ECF5;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: #101828;
+  background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.page-content-padding {
+  padding-inline: clamp(16px, 3.2vw, 56px);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar polish */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #EEF5FF;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
