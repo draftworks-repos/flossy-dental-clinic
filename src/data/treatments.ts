@@ -24,7 +24,7 @@ export const treatmentsData: Treatment[] = [
       "Brighten your smile with safe and effective professional whitening treatments.",
     fullDescription:
       "Our professional in-office laser whitening and custom take-home kits deliver dramatic, enamel-safe brightening in as little as 60 minutes. We use calibrated dental-grade hydrogen peroxide solutions with active desensitizing agents for maximum comfort.",
-    image: "/assets/aistudio/clinic-6.webp",
+    image: "/temp/clinic-6.webp",
     iconName: "Sparkles",
     features: [
       "In-office 1-hour fast whitening",
@@ -46,7 +46,7 @@ export const treatmentsData: Treatment[] = [
       "Restore missing teeth permanently with natural-looking dental implants.",
     fullDescription:
       "Replace missing teeth with biocompatible titanium or ceramic roots topped with bespoke porcelain crowns. Implants preserve your facial jawbone structure, match your natural bite strength, and look completely authentic.",
-    image: "/assets/aistudio/clinic-5.webp",
+    image: "/temp/clinic-5.webp",
     iconName: "Layers",
     features: [
       "3D guided surgical precision",
@@ -68,7 +68,7 @@ export const treatmentsData: Treatment[] = [
       "Enhance the look of your smile with veneers, bonding, and more.",
     fullDescription:
       "Transform chipped, discolored, or uneven teeth with custom porcelain veneers, composite bonding, and gum contouring. Each smile makeover starts with a digital 3D preview so you can approve your ideal smile before treatment begins.",
-    image: "/assets/aistudio/clinic-7.webp",
+    image: "/temp/clinic-7.webp",
     iconName: "Smile",
     features: [
       "Ultra-thin porcelain veneers",
@@ -90,7 +90,7 @@ export const treatmentsData: Treatment[] = [
       "Comprehensive diagnostic exams, gentle hygiene cleanings, and routine oral health maintenance.",
     fullDescription:
       "From ultrasonic tartar removal to low-radiation digital x-rays and cavity screenings, our general dentistry keeps your teeth and gums healthy year-round.",
-    image: "/assets/aistudio/dentist-headshot-1.webp",
+    image: "/temp/dentist-headshot-1.webp",
     iconName: "Stethoscope",
     features: [
       "Ultrasonic tartar removal",

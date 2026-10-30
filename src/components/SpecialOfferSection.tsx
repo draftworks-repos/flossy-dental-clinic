@@ -89,7 +89,7 @@ export const SpecialOfferSection: React.FC<SpecialOfferSectionProps> = ({
         <div className="lg:col-span-6">
           <div className="relative overflow-hidden rounded-[28px] md:rounded-[36px] bg-[#EEF5FF] border border-[#E5ECF5] shadow-sm group">
             <img
-              src="/assets/aistudio/dentist-headshot-1.webp"
+              src="/temp/dentist-headshot-1.webp"
               alt="Two smiling lead dentists at Draftworks Clinic"
               className="w-full h-[360px] sm:h-[430px] md:h-[470px] object-cover object-top transition-transform duration-500 group-hover:scale-102"
               loading="lazy"

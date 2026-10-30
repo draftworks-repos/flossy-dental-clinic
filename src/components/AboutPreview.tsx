@@ -70,7 +70,7 @@ export const AboutPreview: React.FC = () => {
         <div className="lg:col-span-6">
           <div className="relative overflow-hidden rounded-[28px] md:rounded-[36px] bg-[#EEF5FF] border border-[#E5ECF5] shadow-sm group">
             <img
-              src="/assets/aistudio/clinic-1.webp"
+              src="/temp/clinic-1.webp"
               alt="Two caring dental professionals at Draftworks clinic"
               className="w-full h-[360px] sm:h-[440px] md:h-[480px] object-cover object-center transition-transform duration-500 group-hover:scale-102"
               loading="lazy"

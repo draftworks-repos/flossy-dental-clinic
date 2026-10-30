@@ -15,28 +15,28 @@ const features: FeatureItem[] = [
     title: "Expert & Caring Team",
     description:
       "Our experienced dentists and friendly staff are dedicated to providing top-quality care with a personal touch.",
-    image: "/assets/aistudio/clinic-2.webp",
+    image: "/temp/clinic-2.webp",
   },
   {
     id: "advanced-tech",
     title: "Advanced Technology & Treatments",
     description:
       "We use the latest dental technology and modern techniques to provide precise, effective, and painless treatments.",
-    image: "/assets/aistudio/clinic-3.webp",
+    image: "/temp/clinic-3.webp",
   },
   {
     id: "patient-centered",
     title: "Patient-Centered Approach",
     description:
       "We create a stress-free environment with personalized treatment plans, and a focus on pain-free dentistry.",
-    image: "/assets/aistudio/clinic-4.webp",
+    image: "/temp/clinic-4.webp",
   },
   {
     id: "transparent-pricing",
     title: "Transparent & Honest Pricing",
     description:
       "Clear upfront cost estimates, no hidden fees, and seamless direct insurance processing for your peace of mind.",
-    image: "/assets/aistudio/clinic-5.webp",
+    image: "/temp/clinic-5.webp",
   },
 ];
 

@@ -13,7 +13,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
       <div
         className="absolute inset-0 bg-cover bg-center pointer-events-none mix-blend-multiply"
         style={{
-          backgroundImage: `url('/assets/aistudio/clinic-1.webp')`,
+          backgroundImage: `url('/temp/clinic-1.webp')`,
         }}
       />
       <div className="absolute inset-0 bg-gradient-to-b from-[#EEF5FF]/85 via-[#EEF5FF]/92 to-[#EEF5FF00] pointer-events-none " />
@@ -73,7 +73,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
           {/* Central Smiling Dentist Portrait: rounded border on mobile, flush bottom on sm+ */}
           <div className="relative z-10 w-64 sm:w-80 md:w-96 overflow-hidden rounded-2xl sm:rounded-b-none sm:rounded-t-[32px] md:rounded-t-[40px] flex items-end">
             <img
-              src="/assets/aistudio/hero-girl.png"
+              src="/temp/hero-girl.png"
               alt="Lead Dentist at Draftworks Clinic"
               className="w-full h-auto object-cover object-top max-h-[360px] sm:max-h-[440px] block drop-shadow-md align-bottom"
               loading="eager"
